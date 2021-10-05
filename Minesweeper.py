@@ -26,6 +26,7 @@ class Board:
         # generate a new board
         board = [[None for _ in range(self.dim_size)] for _ in range(self.dim_size)]
         # this creates an array like this:
+        #it is easier to create and array manually rather than leaving it in a loop
         # [[None, None, ..., None],
         #  [None, None, ..., None],
         #  [...                  ],
