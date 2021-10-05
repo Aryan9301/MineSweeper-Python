@@ -1,4 +1,3 @@
-#Random Comment
 
 import random
 import re
